@@ -2,13 +2,15 @@
 
 ZenTrack is a local-first desktop time tracker for client and project work.
 
-This public repository is the download and release-notes surface for alpha releases. The application source code remains private.
+This public repository is the download surface for alpha releases. The application source code remains private, and release notes live on GitHub Releases.
 
 ## Current Release
 
-- Version: `0.0.1 alpha`
-- Release tag: `v0.0.1`
+- Version: `0.0.11 alpha`
+- Release tag: `0.0.11`
 - Download page: [Latest release](https://github.com/ridala/zentrack-download/releases/latest)
+- Artifact: `ZenTrack-0.0.11-macos-arm64.dmg`
+- SHA-256: `cee64f48d022cad86aa95eee9d4e3be074d4961a7da76225fb7ecdf6ba2f6738`
 
 ## Install with Homebrew (recommended)
 
@@ -50,7 +52,8 @@ Because the alpha build is unsigned, macOS Gatekeeper blocks the first launch of
 - overview timer flow: start, pause, resume, stop
 - clients and projects with full CRUD
 - project software rules and ignored-time filtering
-- history with day-grouped review, manual entries, overnight sessions, and app-usage detail
+- timeline calendar with Calendar/List views, drag-to-create, drag-to-move, resize, manual entries, overnight sessions, and app-usage detail
+- project colors in the project editor, Clients list, calendar blocks, and reports
 - reports with totals, by-client, by-day, and by-project rows
 - CSV export from the reports page and the native menu
 - tray access for timer state, open-main, and stop-timer actions
@@ -65,11 +68,11 @@ Check the assets attached to this release tag for the actual artifacts published
 
 ### macOS
 
-- `ZenTrack-0.0.1-macos-arm64.dmg` — Apple Silicon
+- `ZenTrack-0.0.11-macos-arm64.dmg` — Apple Silicon
 
 ## Notes
 
 - ZenTrack is a macOS desktop app
 - alpha release builds are unsigned and not notarized
-- public README images use stable repo-relative paths
+- release notes are published on GitHub Releases
 - this repository should never contain source code, secrets, or build caches
