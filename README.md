@@ -6,11 +6,11 @@ This public repository is the download surface for alpha releases. The applicati
 
 ## Current Release
 
-- Version: `0.0.11 alpha`
-- Release tag: `0.0.11`
+- Version: `0.0.111 alpha`
+- Release tag: `0.0.111`
 - Download page: [Latest release](https://github.com/ridala/zentrack-download/releases/latest)
-- Artifact: `ZenTrack-0.0.11-macos-arm64.dmg`
-- SHA-256: `cee64f48d022cad86aa95eee9d4e3be074d4961a7da76225fb7ecdf6ba2f6738`
+- Artifact: `ZenTrack-0.0.111-macos-arm64.dmg`
+- SHA-256: `575b1a307a142db1cb1004bafe187ffa9a0cbdf946e56ea64d1b050d04be351e`
 
 ## Install with Homebrew (recommended)
 
@@ -68,7 +68,7 @@ Check the assets attached to this release tag for the actual artifacts published
 
 ### macOS
 
-- `ZenTrack-0.0.11-macos-arm64.dmg` — Apple Silicon
+- `ZenTrack-0.0.111-macos-arm64.dmg` — Apple Silicon
 
 ## Notes
 
